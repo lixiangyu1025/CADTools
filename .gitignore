@@ -1,0 +1,9 @@
+/CADConverter/bin
+/CADConverter/obj
+/Setup/Debug
+/Setup/Release
+/SetupLibrary/bin
+/SetupLibrary/obj
+/.vs
+obj
+bin
